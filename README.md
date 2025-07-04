@@ -47,17 +47,16 @@ An end-to-end full-stack platform for automatic **data exploration**, **visualiz
 - Python + Flask (EDA, stats, plots)
 
 ### 🖥 Frontend
-- Vite + React.js + TypeScript
-- Tailwind CSS / ShadCN UI
+- Vite + React.js 
+- Tailwind CSS
 
 ### 🗃 Database
-- MongoDB (for saving project/report/user data)
+- MongoDB 
 
 ### 📦 Others
 - Multer (file uploads)
 - Pandas, Matplotlib, Seaborn (Python analysis)
 - Chart.js / Recharts (frontend visualizations)
-- Puppeteer / html-pdf (report exports)
 
 
 
