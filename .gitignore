@@ -1,0 +1,30 @@
+# Node
+dataset-analyzer-backend/node_modules/
+dataset-analyzer-backend/.env
+
+# Python
+__pycache__/
+*.pyc
+flask-api/venv/
+flask-api/__pycache__/
+flask-api/.env
+# Flask/Python
+flask-api/__pycache__/
+flask-api/*.pyc
+flask-api/*.pyo
+flask-api/*.pyd
+flask-api/.env
+flask-api/venv/
+flask-api/Lib/
+flask-api/Include/
+flask-api/Scripts/
+flask-api/pyvenv.cfg
+flask-api/share/
+
+
+# React/Vite
+frontend/node_modules/
+frontend/dist/
+
+# File uploads
+uploads/
